@@ -6,7 +6,7 @@ const { ZERO_ADDRESS } = constants
 
 const {
   shouldBehaveLikeERC20
-} = require('../ERC20.behavior')
+} = require('./ERC20.behavior')
 
 const ERC20Mock = contract.fromArtifact('SamCoin')
 
