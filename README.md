@@ -1,8 +1,8 @@
 My cousin is started a fund a little over a decade ago. He's raising money from inside our family so that eventually we can buy a Waverunner. So far he's raise just over $50.
 
-Why do we need a Waverunner? I think this gif of Daniel Tosh trying to ride one says everything we need to say.
+Why do we need a Waverunner? I think Daniel Tosh trying frown while on one says everything we need to say.
 
-![Tosh on Waverunner](./tosh_gif.gif)
+![Tosh trying to frown on Waverunner](./tosh_gif.gif)
 
 My cousin joked that I should create SamCoin and his fund would invest in it...
 
