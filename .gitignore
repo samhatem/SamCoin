@@ -1,6 +1,6 @@
 node_modules/
 
-truffle-config.js
+.env
 .openzeppelin/
 
 build/
