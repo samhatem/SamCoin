@@ -8,7 +8,7 @@
     "test": "oz compile && mocha --exit --recursive"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^3.0.1",
+    "@openzeppelin/contracts": "^4.4.2",
     "@truffle/hdwallet-provider": "^1.0.35",
     "dotenv": "^8.2.0"
   },
